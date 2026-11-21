@@ -1,0 +1,4 @@
+MARA FASHION STUDIO — VIRTUAL ATELIER
+Abre index.html en Chrome o Edge con conexión a Internet (Three.js se carga desde CDN).
+Funciones: modelos 3D conceptuales, categorías, degradados, patrones, textos, estampados, vistas, exportación PNG, guardar y abrir proyectos JSON, bienvenida por voz.
+No utiliza ni reproduce los modelos propietarios de Virtual Threads.
